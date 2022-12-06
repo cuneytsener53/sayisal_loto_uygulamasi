@@ -1,0 +1,17 @@
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.Form1.resources
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.AssemblyInfo.cs
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\bin\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.exe
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\bin\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.deps.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\bin\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.runtimeconfig.json
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\bin\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\bin\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\refint\Sayisal_Lota_Uygulamasi.dll
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.pdb
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\Sayisal_Lota_Uygulamasi.genruntimeconfig.cache
+C:\Users\Cuneyt\Desktop\Yazılım\C#\SayisalLotaUygulamasi\Sayisal_Lota_Uygulamasi\Sayisal_Lota_Uygulamasi\obj\Debug\net6.0-windows\ref\Sayisal_Lota_Uygulamasi.dll
